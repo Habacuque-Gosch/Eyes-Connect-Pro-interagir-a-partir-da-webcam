@@ -28,7 +28,7 @@ Olá, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n�
 ## Ferramentas utilizadas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![OpenCv](https://img.shields.io/badge/OpenCv-E10F26?style=for-the-badge&logo=opencv&logoColor=white)
     
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
@@ -39,7 +39,7 @@ Olá, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n�
 </a>&nbsp;
     
 <h2>Guia</h2>
-
-para rodar esse projeto em sua máquina, favor visitar o manual de gestos no link abaixo:
+- Instalar os frameworks necessarios
+- para rodar esse projeto em sua máquina, favor visitar o manual de gestos no link abaixo:
 
 
