@@ -1,4 +1,4 @@
-<h1>Sistema Operacional</h1>
+<h1>Controle a partir de gestos</h1>
 
 <h2>Bem vindo(ao) meu repositório</h2>
 
@@ -27,6 +27,7 @@ Olá, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n�
             
 ## Ferramentas utilizadas
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
     
 ### Você também me encontra em:
@@ -39,6 +40,6 @@ Olá, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n�
     
 <h2>Guia</h2>
 
-para rodar esse projeto em sua máquina, favor clonar o repositório
+para rodar esse projeto em sua máquina, favor visitar o manual de gestos no link abaixo:
 
-Logo após ter clonado(baixado), coloque o projeto em uma unica pasta com o nome "sistema operacional"
+
