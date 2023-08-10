@@ -39,7 +39,10 @@ Olá, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n�
 </a>&nbsp;
     
 <h2>Guia</h2>
-- Instalar os frameworks necessarios
-- para rodar esse projeto em sua máquina, favor visitar o manual de gestos no link abaixo:
+<div align='center'>
+    - Instalar os frameworks necessarios
+    - visitar o manual de gestos no link abaixo:
+</div>
+
 
 
