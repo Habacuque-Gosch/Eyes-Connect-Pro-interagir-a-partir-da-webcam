@@ -1,4 +1,4 @@
-<h1>Controle a partir de gestos</h1>
+<h1>Eyes Connect Pro(Controle a partir de gestos)</h1>
 
 <h2>Bem vindo(ao) meu reposit√≥rio</h2>
 
@@ -21,8 +21,8 @@ Ol√°, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n√
 </video>
  
 <div align='center'>
-    <h1>HB System<h1>
-    <img src='./demo.gif' title='demo sistema operacional' width='400px' />
+    <h1>Eyes Connect Pro<h1>
+    <img src='./demo.png' title='demo gestos por webcam' width='400px' />
 </div>
             
 ## Ferramentas utilizadas
@@ -39,7 +39,7 @@ Ol√°, esse projeto foi desenvolvido com o intuito de jogar jogos 2d na web ou n√
 </a>&nbsp;
     
 <h2>Guia</h2>
-<div align='center'>
+<div flex-diction="column" align-itens="center" display="flex">
     - Instalar os frameworks necessarios
     - visitar o manual de gestos no link abaixo:
 </div>
